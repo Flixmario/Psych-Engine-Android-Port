@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				406
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				277,
+				374
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				169
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				520
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mordecai_Assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mordecai",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
