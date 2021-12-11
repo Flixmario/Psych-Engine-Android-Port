@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubbles_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bubbles down note0000" x="292" y="1576" width="292" height="243" frameX="0" frameY="-15" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0001" x="292" y="1576" width="292" height="243" frameX="0" frameY="-15" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0002" x="331" y="303" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0003" x="331" y="303" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0004" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0005" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0006" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0007" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0008" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0009" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0010" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0011" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0012" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles down note0013" x="3" y="1345" width="286" height="255" frameX="-1" frameY="0" frameWidth="292" frameHeight="258"/>
+	<SubTexture name="Bubbles idle0000" x="3" y="1097" width="319" height="245" frameX="0" frameY="-22" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0001" x="3" y="1097" width="319" height="245" frameX="0" frameY="-22" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0002" x="649" y="1087" width="320" height="248" frameX="-7" frameY="-19" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0003" x="649" y="1087" width="320" height="248" frameX="-7" frameY="-19" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0004" x="326" y="824" width="320" height="252" frameX="-12" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0005" x="326" y="824" width="320" height="252" frameX="-12" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0006" x="649" y="832" width="320" height="252" frameX="-14" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0007" x="649" y="832" width="320" height="252" frameX="-14" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0008" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0009" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0010" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0011" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0012" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0013" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0014" x="325" y="1334" width="319" height="239" frameX="-23" frameY="-28" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0015" x="325" y="1334" width="319" height="239" frameX="-23" frameY="-28" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0016" x="654" y="562" width="305" height="267" frameX="-24" frameY="0" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0017" x="654" y="562" width="305" height="267" frameX="-24" frameY="0" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0018" x="3" y="586" width="320" height="253" frameX="-18" frameY="-14" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0019" x="3" y="586" width="320" height="253" frameX="-18" frameY="-14" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0020" x="326" y="1079" width="320" height="252" frameX="-17" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0021" x="326" y="1079" width="320" height="252" frameX="-17" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0022" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0023" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0024" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0025" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0026" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles idle0027" x="3" y="842" width="320" height="252" frameX="-16" frameY="-15" frameWidth="342" frameHeight="267"/>
+	<SubTexture name="Bubbles left note0000" x="331" y="562" width="320" height="259" frameX="0" frameY="-7" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0001" x="331" y="562" width="320" height="259" frameX="0" frameY="-7" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0002" x="629" y="293" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0003" x="629" y="293" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0004" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0005" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0006" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0007" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0008" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0009" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0010" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0011" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0012" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles left note0013" x="3" y="317" width="325" height="266" frameX="-11" frameY="0" frameWidth="336" frameHeight="266"/>
+	<SubTexture name="Bubbles right note0000" x="647" y="1338" width="269" height="279" frameX="0" frameY="-2" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0001" x="647" y="1338" width="269" height="279" frameX="0" frameY="-2" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0002" x="3" y="1603" width="247" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0003" x="3" y="1603" width="247" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0004" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0005" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0006" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0007" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0008" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0009" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0010" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0011" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0012" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles right note0013" x="587" y="1620" width="226" height="281" frameX="-13" frameY="0" frameWidth="269" frameHeight="281"/>
+	<SubTexture name="Bubbles up note0000" x="3" y="3" width="309" height="311" frameX="-1" frameY="0" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0001" x="3" y="3" width="309" height="311" frameX="-1" frameY="0" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0002" x="315" y="3" width="311" height="297" frameX="0" frameY="-14" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0003" x="315" y="3" width="311" height="297" frameX="0" frameY="-14" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0004" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0005" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0006" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0007" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0008" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0009" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0010" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0011" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0012" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+	<SubTexture name="Bubbles up note0013" x="629" y="3" width="311" height="287" frameX="0" frameY="-24" frameWidth="311" frameHeight="311"/>
+</TextureAtlas>
