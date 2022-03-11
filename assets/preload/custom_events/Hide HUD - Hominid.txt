@@ -1,0 +1,10 @@
+Hide most HUD elements (Score text, Healthbar, and Player Icons)
+
+Value1 determines if the HUD is hidden or shown
+
+0 = Show
+1 = Hide
+
+Value2 does nothing. Use the Move Arrow events to hide arrows.
+
+This particular event is meant for the Alien Hominid songs.
