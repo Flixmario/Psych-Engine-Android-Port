@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				29
+			],
+			"anim": "charge",
+			"fps": 24,
+			"name": "Charge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				108
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AlienShootDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				85
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AlienShootRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				100
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AlienShootUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				97
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AlienShootLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien-hominid",
+	"position": [
+		100,
+		400
+	],
+	"healthicon": "Alien-Hominid",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		213,
+		91
+	],
+	"camera_position": [
+		-500,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
