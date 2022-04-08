@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pearl.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="436" height="513"/>
+	<SubTexture name="down0001" x="446" y="10" width="436" height="513"/>
+	<SubTexture name="idle0000" x="882" y="10" width="436" height="513"/>
+	<SubTexture name="left0000" x="1318" y="10" width="436" height="513"/>
+	<SubTexture name="left0001" x="1754" y="10" width="436" height="513"/>
+	<SubTexture name="right0000" x="2190" y="10" width="436" height="513"/>
+	<SubTexture name="right0001" x="2626" y="10" width="436" height="513"/>
+	<SubTexture name="up0000" x="3062" y="10" width="436" height="513"/>
+	<SubTexture name="up0001" x="3498" y="10" width="436" height="513"/>
+</TextureAtlas>

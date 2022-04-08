@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amethyst.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="360" height="384"/>
+	<SubTexture name="down0001" x="370" y="10" width="360" height="384"/>
+	<SubTexture name="idle0000" x="730" y="10" width="360" height="384"/>
+	<SubTexture name="left0000" x="1090" y="10" width="360" height="384"/>
+	<SubTexture name="left0001" x="1450" y="10" width="360" height="384"/>
+	<SubTexture name="right0000" x="1810" y="10" width="360" height="384"/>
+	<SubTexture name="right0001" x="2170" y="10" width="360" height="384"/>
+	<SubTexture name="up0000" x="2530" y="10" width="360" height="384"/>
+	<SubTexture name="up0001" x="2890" y="10" width="360" height="384"/>
+</TextureAtlas>

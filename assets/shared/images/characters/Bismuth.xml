@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bismuth.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="716" height="688"/>
+	<SubTexture name="down0001" x="726" y="10" width="716" height="688"/>
+	<SubTexture name="idle0000" x="1442" y="10" width="716" height="688"/>
+	<SubTexture name="left0000" x="2158" y="10" width="744" height="688"/>
+	<SubTexture name="left0001" x="2902" y="10" width="716" height="688" frameX="-28" frameY="0" frameWidth="744" frameHeight="688"/>
+	<SubTexture name="right0000" x="3618" y="10" width="716" height="688"/>
+	<SubTexture name="right0001" x="4334" y="10" width="716" height="688"/>
+	<SubTexture name="up0000" x="5050" y="10" width="716" height="688"/>
+	<SubTexture name="up0001" x="5766" y="10" width="716" height="688"/>
+</TextureAtlas>
