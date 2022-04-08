@@ -1,0 +1,31 @@
+{
+	"storyName": "stupid pink baby ft. finn & mordo",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "covere",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"roasted",
+			"steven",
+			[
+				255,
+				153,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
